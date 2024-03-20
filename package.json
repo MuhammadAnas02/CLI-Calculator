@@ -1,6 +1,6 @@
 {
-  "name": "clicalulator",
-  "version": "1.0.0",
+  "name": "anas232-cli-calulator",
+  "version": "1.0.1",
   "description": "Asimple calulator with typescrip, node.js ",
   "main": "index.js",
   "type": "module",
